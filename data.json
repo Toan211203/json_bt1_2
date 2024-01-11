@@ -1,0 +1,65 @@
+{
+    "sinh_vien": [
+      {
+        "id": "001",
+        "fullname": "Nguyen Van A",
+        "age": "18",
+        "address": "Ha Noi"
+      },
+      {
+        "id": "002",
+        "fullname": "Nguyen Van B",
+        "age": "20",
+        "address": "Hai Phong"
+      },
+      {
+        "id": "003",
+        "fullname": "Nguyen Thanh C",
+        "age": "21",
+        "address": "Ha Noi"
+      },
+      {
+        "id": "004",
+        "fullname": "Nguyen Thi D",
+        "age": "18",
+        "address": "Quang Ninh"
+      },
+      {
+        "id": "005",
+        "fullname": "Le Thanh E",
+        "age": "23",
+        "address": "Phu Tho"
+      },
+      {
+        "id": "006",
+        "fullname": "Tran Van G",
+        "age": "19",
+        "address": "Hai Phong"
+      },
+      {
+        "id": "007",
+        "fullname": "Le Thi H",
+        "age": "26",
+        "address": "Quang Ninh"
+      },
+      {
+        "id": "008",
+        "fullname": "Tran Thanh I",
+        "age": "18",
+        "address": "Lang Son"
+      },
+      {
+        "id": "009",
+        "fullname": "Tranh Thi K",
+        "age": "21",
+        "address": "Lao Cai"
+      },
+      {
+        "id": "010",
+        "fullname": "Nguyen Van H",
+        "age": "21",
+        "address": "Ha Noi"
+      }
+    
+    ]
+}
